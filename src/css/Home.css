@@ -1,0 +1,18 @@
+#colorTexto{
+  color: white;
+}
+
+.borderList{
+    display:inline-block;
+    border:1px solid #fff;
+    margin: auto;
+}
+
+#titleHome{
+  margin: auto;
+  text-align: center;
+}
+
+.displayColumn{
+  flex-direction: column;
+}
