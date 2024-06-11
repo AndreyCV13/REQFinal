@@ -15,12 +15,12 @@ function Register() {
       <div className='mask gradient-custom-3'> </div>
       <MDBCard className='my-5' id="register">
         <MDBCardBody className='px-5'>
-          <h2 className="text-uppercase text-center mb-5">Create an account</h2>
-          <MDBInput wrapperClass='mb-4' label='Your Name' size='lg' id='form1' type='text'/>
-          <MDBInput wrapperClass='mb-4' label='Your Email' size='lg' id='form2' type='email'/>
-          <MDBInput wrapperClass='mb-4' label='Password' size='lg' id='form3' type='password'/>
-          <MDBInput wrapperClass='mb-4' label='Repeat your password' size='lg' id='form4' type='password'/>
-          <MDBBtn className='mb-4 w-100 gradient-custom-4' size='lg' href='./Home'>Register</MDBBtn>
+          <h2 className="text-uppercase text-center mb-5">¡Bienvenido! Gracias por elegirnos</h2>
+          <MDBInput wrapperClass='mb-4' label='Tu nombre' size='lg' id='form1' type='text'/>
+          <MDBInput wrapperClass='mb-4' label='Tu correo' size='lg' id='form2' type='email'/>
+          <MDBInput wrapperClass='mb-4' label='Tu contraseña' size='lg' id='form3' type='password'/>
+          <MDBInput wrapperClass='mb-4' label='Repite tu contraseña' size='lg' id='form4' type='password'/>
+          <MDBBtn className='mb-4 w-100 gradient-custom-4' size='lg' href='./Home'>¡Regístrate!</MDBBtn>
         </MDBCardBody>
       </MDBCard>
     </MDBContainer>
