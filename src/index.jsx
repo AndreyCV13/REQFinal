@@ -4,6 +4,7 @@ import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import Contact from './routes/Contact.jsx';
 import Catalogue from './routes/Catalogue.jsx';
+import BuyPage from './routes/BuyPage.jsx';
 import Chat from './routes/Chat.jsx'
 import Register from './routes/Register.jsx';
 import Agenda from './routes/Agenda.jsx';
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
   {
     path: "/User",
     element: <User />,
+  },
+  {
+    path: "/BuyPage",
+    element: <BuyPage />,
   },
 ]);
 
