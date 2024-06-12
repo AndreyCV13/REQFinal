@@ -3,7 +3,7 @@ import {useState} from 'react';
 import {MDBDropdown, MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem} from 'mdb-react-ui-kit';
 
 export default function Dropdown({changeService}) {
-    const [value, setValue] = useState("Cita de Control");
+    const [value, setValue] = useState("Retirar un traje");
     
     const transferData = (newValue) => {
         setValue(newValue);

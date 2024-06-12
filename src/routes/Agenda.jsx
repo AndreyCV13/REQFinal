@@ -9,7 +9,7 @@ import AgendaModal from '../components/agendaModal';
 
 export default function Agenda() {
   const [calendar, setCalendar] = useState(dayjs('2022-04-17'));
-  const [service, setService] = useState('Cita de Control');
+  const [service, setService] = useState('Retirar un traje');
 
   const changeDate = (calendarData) => {
     setCalendar(calendarData);
