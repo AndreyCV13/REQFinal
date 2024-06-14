@@ -1,0 +1,274 @@
+{
+    "trajes":[
+      {
+        "name": "Traje de Mariachi Blanco",
+        "type": "Fiesta",
+        "material": "Lana",
+        "price": "35",
+        "size": "12",
+        "description": "Traje normalmente utilizado en eventos formales de color verde",
+        "img": "images/trajeMariachiBlanco.jpg"  
+      },
+      {
+      "name": "Traje de Gala Verde",
+      "type": "Esmoquin",
+      "size": "S",
+      "material": "Lana",
+      "price": "10",
+      "description": "Traje normalmente utilizado en eventos formales de color verde",
+      "img": "images/trajeVerde.png"
+      },
+      {
+        "name": "Traje de Gala Rojo",
+        "type": "Esmoquin",
+        "material": "Algodón",
+        "price": "15",
+        "size": "S",
+        "description": "Traje normalmente utilizado en eventos formales de color verde",
+        "img": "images/trajeRojo.png"
+      },
+      {
+        "name": "Traje de Gala Azul",
+        "type": "Esmoquin",
+        "size": "S",
+        "material": "Lino",
+        "price": "20",
+        "description": "Traje normalmente utilizado en eventos formales de color azul",
+        "img": "images/trajeAzul.png"
+      },
+      {
+        "name": "Traje de Gala Negro",
+        "type": "Esmoquin",
+        "material": "Seda",
+        "price": "25",
+        "size": "S",
+        "description": "Traje normalmente utilizado en eventos formales de color verde",
+        "img": "images/trajeNegro.png" 
+      },
+      {
+        "name": "Traje de Mariachi Negro",
+        "type": "Fiesta",
+        "size": "S",
+        "material": "Poliéster",
+        "price": "30",
+        "description": "Traje de mariachi de color negro",
+        "img": "images/trajeMariachi.png"
+      },
+      {
+        "name": "Traje con Chaleco",
+        "type": "Semi-Formal",
+        "size": "S",
+        "material": "Algodón",
+        "price": "40",
+        "description": "Traje normalmente utilizado en eventos formales de color verde",
+        "img": "images/semiFormal.png"
+      },
+      {
+        "name": "Traje de Gala Verde",
+        "type": "Esmoquin",
+        "size": "M",
+        "material": "Lana",
+        "price": "10",
+        "description": "Traje normalmente utilizado en eventos formales de color verde",
+        "img": "images/trajeVerde.png"
+        },
+        {
+          "name": "Traje de Gala Rojo",
+          "type": "Esmoquin",
+          "material": "Algodón",
+          "price": "15",
+          "size": "M",
+          "description": "Traje normalmente utilizado en eventos formales de color verde",
+          "img": "images/trajeRojo.png"
+        },
+        {
+          "name": "Traje de Gala Azul",
+          "type": "Esmoquin",
+          "size": "M",
+          "material": "Lino",
+          "price": "20",
+          "description": "Traje normalmente utilizado en eventos formales de color azul",
+          "img": "images/trajeAzul.png"
+        },
+        {
+          "name": "Traje de Gala Negro",
+          "type": "Esmoquin",
+          "material": "Seda",
+          "price": "25",
+          "size": "M",
+          "description": "Traje normalmente utilizado en eventos formales de color verde",
+          "img": "images/trajeNegro.png" 
+        },
+        {
+          "name": "Traje de Mariachi Negro",
+          "type": "Fiesta",
+          "size": "M",
+          "material": "Poliéster",
+          "price": "30",
+          "description": "Traje de mariachi de color negro",
+          "img": "images/trajeMariachi.png"
+        },
+        {
+          "name": "Traje de Mariachi Blanco",
+          "type": "Fiesta",
+          "material": "Lana",
+          "price": "35",
+          "size": "M",
+          "description": "Traje normalmente utilizado en eventos formales de color verde",
+          "img": "images/trajeMariachiBlanco.jpg"  
+        },
+        {
+          "name": "Traje con Chaleco",
+          "type": "Semi-Formal",
+          "size": "M",
+          "material": "Algodón",
+          "price": "40",
+          "description": "Traje normalmente utilizado en eventos formales de color verde",
+          "img": "images/semiFormal.png"
+        },
+        {
+          "name": "Traje de Gala Verde",
+          "type": "Esmoquin",
+          "size": "L",
+          "material": "Lana",
+          "price": "10",
+          "description": "Traje normalmente utilizado en eventos formales de color verde",
+          "img": "images/trajeVerde.png"
+          },
+          {
+            "name": "Traje de Gala Rojo",
+            "type": "Esmoquin",
+            "material": "Algodón",
+            "price": "15",
+            "size": "L",
+            "description": "Traje normalmente utilizado en eventos formales de color verde",
+            "img": "images/trajeRojo.png"
+          },
+          {
+            "name": "Traje de Gala Azul",
+            "type": "Esmoquin",
+            "size": "L",
+            "material": "Lino",
+            "price": "20",
+            "description": "Traje normalmente utilizado en eventos formales de color azul",
+            "img": "images/trajeAzul.png"
+          },
+          {
+            "name": "Traje de Gala Negro",
+            "type": "Esmoquin",
+            "material": "Seda",
+            "price": "25",
+            "size": "L",
+            "description": "Traje normalmente utilizado en eventos formales de color verde",
+            "img": "images/trajeNegro.png" 
+          },
+          {
+            "name": "Traje de Mariachi Negro",
+            "type": "Fiesta",
+            "size": "L",
+            "material": "Poliéster",
+            "price": "30",
+            "description": "Traje de mariachi de color negro",
+            "img": "images/trajeMariachi.png"
+          },
+          {
+            "name": "Traje de Mariachi Blanco",
+            "type": "Fiesta",
+            "material": "Lana",
+            "price": "35",
+            "size": "L",
+            "description": "Traje normalmente utilizado en eventos formales de color verde",
+            "img": "images/trajeMariachiBlanco.jpg"  
+          },
+          {
+            "name": "Traje con Chaleco",
+            "type": "Semi-Formal",
+            "size": "L",
+            "material": "Algodón",
+            "price": "40",
+            "description": "Traje normalmente utilizado en eventos formales de color verde",
+            "img": "images/semiFormal.png"
+          },
+          {
+            "name": "Traje de Gala Verde",
+            "type": "Esmoquin",
+            "size": "XL",
+            "material": "Lana",
+            "price": "10",
+            "description": "Traje normalmente utilizado en eventos formales de color verde",
+            "img": "images/trajeVerde.png"
+            },
+            {
+              "name": "Traje de Gala Rojo",
+              "type": "Esmoquin",
+              "material": "Algodón",
+              "price": "15",
+              "size": "XL",
+              "description": "Traje normalmente utilizado en eventos formales de color verde",
+              "img": "images/trajeRojo.png"
+            },
+            {
+              "name": "Traje de Gala Azul",
+              "type": "Esmoquin",
+              "size": "XL",
+              "material": "Lino",
+              "price": "20",
+              "description": "Traje normalmente utilizado en eventos formales de color azul",
+              "img": "images/trajeAzul.png"
+            },
+            {
+              "name": "Traje de Gala Negro",
+              "type": "Esmoquin",
+              "material": "Seda",
+              "price": "25",
+              "size": "XL",
+              "description": "Traje normalmente utilizado en eventos formales de color verde",
+              "img": "images/trajeNegro.png" 
+            },
+            {
+              "name": "Traje de Mariachi Negro",
+              "type": "Fiesta",
+              "size": "XL",
+              "material": "Poliéster",
+              "price": "30",
+              "description": "Traje de mariachi de color negro",
+              "img": "images/trajeMariachi.png"
+            },
+            {
+              "name": "Traje de Mariachi Blanco",
+              "type": "Fiesta",
+              "material": "Lana",
+              "price": "35",
+              "size": "XL",
+              "description": "Traje normalmente utilizado en eventos formales de color verde",
+              "img": "images/trajeMariachiBlanco.jpg"  
+            },
+            {
+              "name": "Traje con Chaleco",
+              "type": "Semi-Formal",
+              "size": "XL",
+              "material": "Algodón",
+              "price": "40",
+              "description": "Traje normalmente utilizado en eventos formales de color verde",
+              "img": "images/semiFormal.png"
+            },
+            {
+              "name": "Traje de Gala Verde",
+              "type": "Esmoquin",
+              "size": "XXL",
+              "material": "Lana",
+              "price": "10",
+              "description": "Traje normalmente utilizado en eventos formales de color verde",
+              "img": "images/trajeVerde.png"
+              },
+              {
+                "name": "Traje de Gala Rojo",
+                "type": "Esmoquin",
+                "material": "Algodón",
+                "price": "15",
+                "size": "XXL",
+                "description": "Traje normalmente utilizado en eventos formales de color verde",
+                "img": "images/trajeRojo.png"
+              }
+    ]
+}

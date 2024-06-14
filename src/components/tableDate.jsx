@@ -1,6 +1,5 @@
 import React from 'react';
 import { MDBBadge, MDBBtn, MDBTable, MDBTableHead, MDBTableBody } from 'mdb-react-ui-kit';
-import avatarIMG from '../images/avatar.png';
 
 export default function TableDate() {
   return (
@@ -8,7 +7,7 @@ export default function TableDate() {
       <MDBTableHead>
         <tr>
           <th scope='col'>Encargado</th>
-          <th scope='col'>Tipo de Cita</th>
+          <th scope='col'>Traje</th>
           <th scope='col'>Estado</th>
           <th scope='col'>Fecha</th>
           <th scope='col'>Acciones</th>
@@ -19,7 +18,7 @@ export default function TableDate() {
           <td>
             <div className='d-flex align-items-center'>
               <img
-                src={avatarIMG}
+                src={'images/avatar.png'}
                 alt=''
                 style={{ width: '45px', height: '45px' }}
                 className='rounded-circle'
@@ -31,7 +30,7 @@ export default function TableDate() {
             </div>
           </td>
           <td>
-            <p className='fw-normal mb-1'>Control</p>
+            <p className='fw-normal mb-1'>Mariachi Blanco</p>
           </td>
           <td>
             <MDBBadge color='success' pill>
@@ -49,7 +48,7 @@ export default function TableDate() {
           <td>
             <div className='d-flex align-items-center'>
               <img
-                src={avatarIMG}
+                src={'images/avatar.png'}
                 alt=''
                 style={{ width: '45px', height: '45px' }}
                 className='rounded-circle'
@@ -61,7 +60,7 @@ export default function TableDate() {
             </div>
           </td>
           <td>
-            <p className='fw-normal mb-1'>Servicios Estéticos</p>
+            <p className='fw-normal mb-1'>Gala Verde</p>
           </td>
           <td>
             <MDBBadge color='primary' pill>
@@ -79,7 +78,7 @@ export default function TableDate() {
           <td>
             <div className='d-flex align-items-center'>
               <img
-                src={avatarIMG}
+                src={'images/avatar.png'}
                 alt=''
                 style={{ width: '45px', height: '45px' }}
                 className='rounded-circle'
@@ -91,7 +90,7 @@ export default function TableDate() {
             </div>
           </td>
           <td>
-            <p className='fw-normal mb-1'>Control</p>
+            <p className='fw-normal mb-1'>Con Chaleco</p>
           </td>
           <td>
             <MDBBadge color='warning' pill>

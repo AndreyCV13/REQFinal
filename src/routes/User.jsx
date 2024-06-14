@@ -79,7 +79,7 @@ export default function User() {
         <MDBBtn className='m-4 w-50' type='submit'>Aceptar</MDBBtn>
 
         <div className="w-75 m-3" style={{ background: '#CCC', height: '1px' }}></div>
-        <h3 className='m-3' id="titleHome">Registro de Citas</h3>
+        <h3 className='m-3' id="titleHome">Historial de trajes</h3>
         <TableDate/>
     </MDBContainer>
     </div>

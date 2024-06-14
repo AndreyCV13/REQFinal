@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+body{
+/* fallback for old browsers */
+background: #84fab0;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, rgb(220, 244, 5), rgb(244, 162, 143));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgb(220, 244, 5), rgb(244, 162, 143))
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
